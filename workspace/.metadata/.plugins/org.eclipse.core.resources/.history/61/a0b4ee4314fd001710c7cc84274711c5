@@ -1,0 +1,7 @@
+package helloworld0;
+
+public class logicaltable {
+	public static void main (String[] args) {
+		System.out.println("P\tQ\tAND\tOR\tXOR\tNOT");
+	}
+}
