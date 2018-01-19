@@ -1,0 +1,7 @@
+package helloworld0;
+
+public class galtolit {
+	public static void main (String[] array){
+		
+	}
+}

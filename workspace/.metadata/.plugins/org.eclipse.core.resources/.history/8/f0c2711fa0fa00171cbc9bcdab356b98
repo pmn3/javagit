@@ -1,0 +1,8 @@
+package helloworld0;
+
+public class moon {
+	public static void main(String[] array){
+		double wieghtforearth, wieghtformoon;
+		
+	}
+}
